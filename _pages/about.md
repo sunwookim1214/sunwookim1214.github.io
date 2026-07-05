@@ -24,6 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I'm Sunwoo Kim. Welcome to my website!
-
-Write your introduction here. To add a profile photo, place an image in `assets/img/` and set `profile.image` in `_pages/about.md`. To show news and selected publications on this page, flip `announcements.enabled` and `selected_papers` back to `true`.
+Sunwoo Kim is a Master's student majoring in Computer Science at KAIST, advised by professor [Alice Oh](https://aliceoh9.github.io/) in the [U&I Lab](https://uilab.kr/). His research interests lie in agentic AI safety and reliability. He is especially interested in uncertainty quantification, mechanistic interpretability, and robust evaluation methods.
