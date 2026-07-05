@@ -4,9 +4,9 @@ title: About
 permalink: /
 subtitle:
 
-profile:
+profile: 
   align: right
-  image:
+  image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info:
 
