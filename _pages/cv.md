@@ -1,11 +1,8 @@
 ---
-layout: cv
+layout: redirect
 permalink: /cv/
+redirect_to: /assets/pdf/CV_2607.pdf
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: CV_2607.pdf
-description: 
-toc:
-  sidebar: left
 ---
